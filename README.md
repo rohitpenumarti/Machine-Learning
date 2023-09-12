@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This repository contains homework assignments and the final project completed as a part of my machine learning course in graduate school. The details of homework assignments can be made available on request.
+This repository contains homework assignments and the final project completed as a part of my machine learning course in graduate school. For more information on what each assignment was concerned with, information will be provided on request.
 
 ### [Final Project](https://github.com/rohitpenumarti/Machine-Learning/blob/master/FinalProject/final_project.ipynb)
 
